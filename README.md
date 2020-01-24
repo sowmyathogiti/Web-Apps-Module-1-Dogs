@@ -29,5 +29,5 @@ For more information, please click [Link to Briard](https://simple.wikipedia.org
 - They have been used as herding dogs, guard dogs, military dogs, eyes for the blind and as pets between others.
 - Because of their intelligence, speed, drive, eagerness and balance also considered the most versatile breed both in adaptability and suitability.
 ![German Shepherd](https://thefreshtoast.com/wp-content/uploads/2018/10/dogs-of-instagram-the-german-shepard-1068x580.jpg)
-For more information, please click [Link to German Shepherd](https://simple.wikipedia.org/wiki/German_Shepherd) 
+For more information, please click [Link to German Shepherd](https://simple.wikipedia.org/wiki/German_Shepherd)  
 Credits: Wikipedia, pet-store, dogsloveusmore, i.pinimg, thefreshtoast.  

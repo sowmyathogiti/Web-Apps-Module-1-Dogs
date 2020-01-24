@@ -14,9 +14,9 @@ There are various kinds of breeds in dogs, such as:
 ![Golden Retriever](https://pet-store.org/wp-content/uploads/2019/12/golden-retriever-puppy-788x525.jpg)  
 For more information, please click [Link to Golden Retriever](https://simple.wikipedia.org/wiki/Golden_Retriever)  
 ## Boxer
-1. Boxers are good guard dogs.
-2. They are strong and like to run in open spaces.
-3. Boxers are one of the most popular breeds of dogs in the US and over-breeding is a concern.
+- Boxers are good guard dogs.
+- They are strong and like to run in open spaces.
+- Boxers are one of the most popular breeds of dogs in the US and over-breeding is a concern.
 ![Boxer](https://dogsloveusmore.com/wp-content/uploads/2018/05/boxer-dog.jpg)
 For more information, please click [Link to Boxer](https://simple.wikipedia.org/wiki/Boxer_(dog))  
 ## Briard

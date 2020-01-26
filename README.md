@@ -26,8 +26,8 @@ For more information, please click [Link to Boxer](https://simple.wikipedia.org/
 For more information, please click [Link to Briard](https://simple.wikipedia.org/wiki/Briard)  
 ## German Shepherd
 1. They are often used as police dogs, but they have many other uses.
-1. They have been used as herding dogs, guard dogs, military dogs, eyes for the blind and as pets between others.
-1. Because of their intelligence, speed, drive, eagerness and balance also considered the most versatile breed both in adaptability and suitability.
+2. They have been used as herding dogs, guard dogs, military dogs, eyes for the blind and as pets between others.
+3. Because of their intelligence, speed, drive, eagerness and balance also considered the most versatile breed both in adaptability and suitability.
 ![German Shepherd](https://thefreshtoast.com/wp-content/uploads/2018/10/dogs-of-instagram-the-german-shepard-1068x580.jpg)
 For more information, please click [Link to German Shepherd](https://simple.wikipedia.org/wiki/German_Shepherd)  
 Credits: Wikipedia, pet-store, dogsloveusmore, i.pinimg, thefreshtoast.  
